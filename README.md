@@ -17,6 +17,19 @@ A basic Azure Kubernetes Service (AKS) application designed to demonstrate conta
 ## Ready To Go?
 Attempt to all missions. Start with Mission 1 through to 6. By the end of this you should be able to deploy your first AKS application. 
 
-### Mission 1: [Understand the basics](https://github.com/dylanapera/KubeQuest/blob/main/Missions/Mission-1.md)
+#### Mission 1: [Understand the basics](https://github.com/dylanapera/KubeQuest/blob/main/Missions/Mission-1.md)
+Objectives:
+- Understand key terms that make up AKS and its dependent solutions
 
+#### Mission 2: What is being deployed | AKS Architecture
+Objectives:
+- Develop an understanding of basic AKS Architecture
+- Understand what correlating services link to the architecture
+- Readinesss to deploy application locally
+
+#### Mission 3: Deploying an application locally 
+- Run KubeCTL (Kubernetes CLI) and Docker
+
+#### Mission 4: Deploying an appliaction to Azure
+- Deploy container application into Azure 
 

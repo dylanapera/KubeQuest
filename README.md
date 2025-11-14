@@ -17,6 +17,6 @@ A basic Azure Kubernetes Service (AKS) application designed to demonstrate conta
 ## Ready To Go?
 Attempt to all missions. Start with Mission 1 through to 6. By the end of this you should be able to deploy your first AKS application. 
 
-### Mission 1: [Understand the basics](https://github.com/dylanapera/KubeQuest/blob/main/Missions/Mission-1)
+### Mission 1: [Understand the basics]([https://github.com/dylanapera/KubeQuest/blob/main/Missions/Mission-1](https://github.com/dylanapera/KubeQuest/blob/main/Missions/Mission-1.md))
 
 
